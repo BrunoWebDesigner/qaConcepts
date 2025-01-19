@@ -13,6 +13,7 @@ Software testing verifies that a product meets customer requirements and is free
 - **QA**: Focuses on continuous improvement of the development process.
 - **QC**: Verifies product compliance with QA standards, focusing on detecting bugs.
   ![Local Image](./img/qaxqc.png)
+  <img src="./img/qaxqc.png" width="600">
 
 ## Types of Software Testing
 
