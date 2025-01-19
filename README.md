@@ -1,7 +1,7 @@
 # Topics
 
 [Software Testing](softwareTesting.md)
-[Section 2](section2.md)
+[QA Testing Report](qaTestingReport.md)
 
 # References
 
