@@ -7,6 +7,7 @@ This document provides an overview of software testing, focusing on key concepts
 ## Core Concepts of Software Testing
 
 Software testing verifies that a product meets customer requirements and is free from defects. It involves validating the software's behavior against expected outputs and fixing issues before launch.
+
 <br>
 <img src="./img/SDLC.png" width="600">
 <br>
@@ -15,6 +16,7 @@ Software testing verifies that a product meets customer requirements and is free
 
 - **QA**: Focuses on continuous improvement of the development process.
 - **QC**: Verifies product compliance with QA standards, focusing on detecting bugs.
+
   <br>
   <img src="./img/qaxqc.png" width="600">
   <br>
@@ -25,6 +27,7 @@ Software testing verifies that a product meets customer requirements and is free
 
 - **Manual Testing**: Testing done manually without tools.
 - **Automated Testing**: Uses scripts and tools to execute tests.
+
   <br>
   <img src="./img/frameworks.png" width="600">
   <br>
@@ -34,6 +37,7 @@ Software testing verifies that a product meets customer requirements and is free
 - **Black Box Testing**: Tests based on inputs and outputs without knowledge of the system.
 - **White Box Testing**: Involves knowledge of internal code for testing.
 - **Gray Box Testing**: A mix of black and white box testing.
+
   <br>
   <img src="./img/boxes.png" width="600">
   <br>
