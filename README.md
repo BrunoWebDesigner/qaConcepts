@@ -1,7 +1,10 @@
 # Topics
 
 [Software Testing](softwareTesting.md)
+
 [QA Testing Report](qaTestingReport.md)
+
+[Testing Prioritization](prioritization.md)
 
 # References
 
