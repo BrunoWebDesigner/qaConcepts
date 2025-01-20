@@ -50,6 +50,7 @@ The diagram above illustrates the flow of the bug life cycle, highlighting vario
 - **Deferred**: The defect is valid but postponed to a later release due to priority or impact.
 - **Next Release**: Defects marked as deferred are scheduled for resolution in the upcoming release.
 
+
 ## Applying Bug Life Cycle in QA Daily Work
 
 ### 1. **Systematic Bug Reporting**
@@ -57,6 +58,9 @@ QA engineers should ensure clear, concise, and detailed bug reports. Include:
 - Steps to reproduce.
 - Screenshots, logs, or videos.
 - Expected and actual results.
+
+You can check:
+[QA Testing Report](qaTestingReport.md)
 
 ### 2. **Communication and Collaboration**
 - Communicate effectively with developers during the **Assigned** and **Open** stages.
