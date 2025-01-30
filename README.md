@@ -8,6 +8,8 @@
 
 [Bug Life Cicle](bugLifeCicle.md)
 
+[Functional vs Non-Functional Testing](functNonFunct.md)
+
 # References
 
 [W3 School - Software testing](https://www.w3schools.in/software-testing/tutorials/)
