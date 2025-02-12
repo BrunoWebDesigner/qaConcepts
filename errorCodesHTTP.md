@@ -3,6 +3,10 @@
 ## Overview
 HTTP (Hypertext Transfer Protocol) response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped into five classes:
 
+<br>
+<img src="./img/httperror.png" width="800">
+<br>
+
 - **1xx (Informational)** – Request received, continuing process.
 - **2xx (Success)** – Request was successfully received, understood, and accepted.
 - **3xx (Redirection)** – Further action needs to be taken in order to complete the request.
