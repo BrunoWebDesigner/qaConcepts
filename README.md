@@ -10,7 +10,7 @@
 
 [Functional vs Non-Functional Testing](functNonFunct.md)
 
-[Functional vs Non-Functional Testing](errorCodesHTTP.md)
+[HTTP Error codes](errorCodesHTTP.md)
 
 # References
 
