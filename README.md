@@ -10,6 +10,8 @@
 
 [Functional vs Non-Functional Testing](functNonFunct.md)
 
+[Functional vs Non-Functional Testing](errorCodesHTTP.md)
+
 # References
 
 [W3 School - Software testing](https://www.w3schools.in/software-testing/tutorials/)
