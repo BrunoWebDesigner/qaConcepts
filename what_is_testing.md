@@ -56,22 +56,23 @@ This can lead us to the necessity of a QA role to test the Software during the S
 Source: https://www.techment.com/explore-techments-state-of-the-art-software-testing-process/
 
 ## Testing Processes
-### Test Planning and Control
-Defining test objectives, scope, and resources.
-
-### Test Analysis and Design
-Developing test cases based on requirements.
-
-### Test Implementation and Execution
-Executing test cases and recording results.
-
-### Evaluating Exit Criteria and Reporting
-Assessing if the software meets defined criteria and reporting test results.
-
-### Test Closure Activities
-Finalizing test cases and scripts, ensuring deliverables match requirements, and documenting the testing process.
 
 <br>
-<img src="./img/Processes.png" width="600">
+<img src="./img/Processes.png" width="900">
 <br>
 Source: https://www.techment.com/explore-techments-state-of-the-art-software-testing-process/
+
+### Test Planning and Control
+- Defining test objectives, scope, and resources.
+
+### Test Analysis and Design
+- Developing test cases based on requirements.
+
+### Test Implementation and Execution
+- Executing test cases and recording results.
+
+### Evaluating Exit Criteria and Reporting
+- Assessing if the software meets defined criteria and reporting test results.
+
+### Test Closure Activities
+- Finalizing test cases and scripts, ensuring deliverables match requirements, and documenting the testing process.
