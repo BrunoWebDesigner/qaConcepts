@@ -51,7 +51,7 @@ This can lead us to the necessity of a QA role to test the Software during the S
 ## Testing Advantages
 
 <br>
-<img src="./img/Advantages.png" width="600">
+<img src="./img/Advantages.png" width="900">
 <br>
 Source: https://www.techment.com/explore-techments-state-of-the-art-software-testing-process/
 
