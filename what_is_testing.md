@@ -76,3 +76,18 @@ Source: https://www.techment.com/explore-techments-state-of-the-art-software-tes
 
 ### Test Closure Activities
 - Finalizing test cases and scripts, ensuring deliverables match requirements, and documenting the testing process.
+
+## Testing x Debugging
+### Understanding Testing and Debugging
+- Testing is a process aimed at identifying defects in software to validate its behavior against requirements.
+- Debugging involves finding, analyzing, and removing defects after failures have been triggered during testing.
+
+<br>
+<img src="./img/testing_vs_debugging.png" width="600">
+<br>
+
+### Key Differences Between Testing and Debugging
+Testing is a destructive activity that provokes failures to document issues, while debugging is constructive, focusing on fixing faults.
+
+**Developers and testers approach their tasks differently; testing should be conducted separately from development.**
+
