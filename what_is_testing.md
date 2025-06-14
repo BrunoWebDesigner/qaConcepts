@@ -31,7 +31,7 @@ This can lead us to the necessity of a QA role to test the Software during the S
 
 - **UNIT TESTING**: individual components
 - **INTEGRATION TESTING**: how components work together
-- **System Testing**: entire system as a whole
+- **SYSTEM TESTING**: entire system as a whole
 - **ACCEPTANCE TESTING**: system meets user requirements
 
 ## Tetsing Types
