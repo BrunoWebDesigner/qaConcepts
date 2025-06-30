@@ -6,7 +6,7 @@
 
 [Testing Prioritization](prioritization.md)
 
-[Bug Life Cicle](bugLifeCicle.md)
+[Bug Life Cycle](bugLifeCycle.md)
 
 [Functional vs Non-Functional Testing](functNonFunct.md)
 
