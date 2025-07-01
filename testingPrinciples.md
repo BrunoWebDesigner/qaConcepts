@@ -2,6 +2,10 @@
 
 Software testing is more than just executing test cases—it's about ensuring quality through strategy, insight, and experience. The **7 Principles of Testing**, as defined by ISTQB (International Software Testing Qualifications Board), guide professional testers to design better tests and improve software quality.
 
+<br>
+<img src="./img/testingPrinciples.png" width="600">
+<br>
+
 ---
 
 ## 1. 🛠 Testing Shows Presence of Defects
