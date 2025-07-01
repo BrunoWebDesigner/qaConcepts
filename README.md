@@ -57,10 +57,16 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ---
 
-### 📱 [Testing for Mobile](testingPrinciples.md)
+### 📱 [Testing for Mobile](mobileTestTools.md)
 
 - Challenges unique to mobile testing
 - Best practices for delivering quality mobile apps
+
+---
+
+### 📱 [Testing Principles](testingPrinciples.md)
+
+- Explanation and real cases example for each one of the seven testing principles
 
 ---
 
