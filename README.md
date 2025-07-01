@@ -66,8 +66,6 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ## 🔖 References
 
-## 🔖 References
-
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
 - [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/)
 - [Ministry of Testing](https://www.ministryoftesting.com/) — Community, articles, and events for modern testers.
