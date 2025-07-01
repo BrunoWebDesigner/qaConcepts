@@ -10,9 +10,13 @@
 
 [Functional vs Non-Functional Testing](functNonFunct.md)
 
-[HTTP Error codes](errorCodesHTTP.md)
+[HTTP Error codes](what_is_testing.md)
 
-[Testing for Mobile](mobileTestTools.md)
+[Priority for Tests](prioritization.md)
+
+[What is testing](errorCodesHTTP.md)
+
+[Testing for Mobile](testingPrinciples.md)
 
 # References
 
