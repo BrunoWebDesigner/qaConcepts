@@ -68,6 +68,10 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 - Explanation and real cases example for each one of the seven testing principles
 
+### 📱 [Test Plan](testPlan.md)
+
+- Explanation and real cases example for a well structured Test Plan
+
 ---
 
 ## 🔖 References
