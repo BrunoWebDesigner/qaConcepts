@@ -187,7 +187,7 @@ Each test case should include:
 3. Confirm the vote submission.  
 **Test Data**: Valid user credentials, car model ID.  
 **Expected Results**: Vote is recorded, and the vote count increases by 1.  
-**Traceability**: Requirement R1.2 - Users can vote for car models.
+**Traceability**: Requirement R1.2 - Users can vote for car models.```
 
 ### 2.7 Bug Management
 
@@ -223,7 +223,7 @@ Bug management is a critical part of the testing process. The process should inc
 **Actual Result**: Vote count remains unchanged.  
 **Expected Result**: Vote count increases by 1.  
 **Status**: Open  
-**Resolution**: Pending developer fix.
+**Resolution**: Pending developer fix.```
 
 ### 2.8 Entry and Exit Criteria
 
@@ -357,7 +357,7 @@ Deliverables provide transparency and accountability for the testing process. Ke
 - **Critical Bugs**: 0  
 - **Non-Critical Bugs**: 3 (logged with resolution plan)  
 - **Coverage**: 100% of requirements tested  
-- **Recommendation**: Feature is ready for release with minor bug fixes pending.
+- **Recommendation**: Feature is ready for release with minor bug fixes pending.```
 
 ### 2.12 Communication Plan
 
@@ -413,7 +413,7 @@ Effective communication is critical for successful testing, ensuring that all te
 - **Pass Rate**: 90% (36/40)  
 - **Bugs Identified**: 5 (2 critical, 3 minor)  
 - **Critical Bugs Status**: 1 resolved, 1 pending  
-- **Next Steps**: Continue execution, resolve remaining critical bug.
+- **Next Steps**: Continue execution, resolve remaining critical bug.```
 
 ## 3. Best Practices for Creating a QA Test Plan
 
@@ -476,7 +476,7 @@ The provided test plan for the Voting Feature of the Buggy Cars Rating Website s
 3. Confirm the vote submission.  
 **Test Data**: Valid user credentials, car model ID.  
 **Expected Results**: Vote is recorded, and the vote count increases by 1.  
-**Traceability**: Requirement R1.2 - Users can vote for car models.
+**Traceability**: Requirement R1.2 - Users can vote for car models.```
 
 ## 5. Conclusion
 
