@@ -72,6 +72,10 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 - Explanation and real cases example for a well structured Test Plan
 
+### 📱 [Test Case Jira](testCaseJira.md)
+
+- Explanation and real cases example test cases
+
 ---
 
 ## 🔖 References
