@@ -68,9 +68,13 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 - Explanation and real cases example for each one of the seven testing principles
 
+---
+
 ### 📱 [Test Plan](testPlan.md)
 
 - Explanation and real cases example for a well structured Test Plan
+
+---
 
 ### 📱 [Test Case Jira](testCaseJira.md)
 
@@ -90,7 +94,6 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 - [Stack Overflow - Software Testing Tag](https://stackoverflow.com/questions/tagged/software-testing) — Community Q&A for real-world testing challenges.
 - [Satisfice Blog (James Bach)](http://www.satisfice.com/blog/) — Thought-provoking posts from a context-driven testing expert.
 - [Software Testing Magazine](https://www.softwaretestingmagazine.com/) — Articles, news, and tutorials on testing techniques and tools.
-
 
 ---
 
