@@ -98,6 +98,21 @@ Explanation and real cases example for Black-Box Test Design Techniques:
 
 ---
 
+### 📱 [White-Box Test Design Techniques](whiteBoxTesting.md)
+
+Explanation and real cases example for White-Box Test Design Techniques:
+
+- **Statement Coverage**: Tests every code line executes at least once.
+- **Branch Coverage**: Tests all decision outcomes (true/false).
+- **Condition Coverage**: Tests each Boolean condition for true and false.
+- **Multiple Condition Coverage**: Tests all condition combinations in decisions.
+- **Path Coverage**: Tests all possible code execution paths.
+- **Control Flow Testing**: Tests execution flow, including loops and branches.
+- **Data Flow Testing**: Checks variable definition, use, and removal.
+- **Loop Testing**: Tests loops for zero, one, multiple, and max iterations.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
