@@ -113,7 +113,7 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
-### 📱 [Test Phase](testPhases.md)
+### 📱 [Test Phases](testPhases.md)
 
 - Explanation with key activities and real cases example regarding the Test Phases
 
