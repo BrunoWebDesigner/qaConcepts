@@ -84,7 +84,8 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ### 📱 [Black-Box Test Design Techniques](blackBoxTesting.md)
 
-- Explanation and real cases example for Black-Box Test Design Techniques:
+Explanation and real cases example for Black-Box Test Design Techniques:
+
 - **EP**: Reduce tests by grouping similar inputs.
 - **BVA**: Focus on edges where bugs often hide.
 - **Decision Tables**: Test complex business rules.
