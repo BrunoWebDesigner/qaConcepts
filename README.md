@@ -113,6 +113,12 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Test Phase](testPhases.md)
+
+- Explanation with key activities and real cases example regarding the Test Phases
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
