@@ -119,6 +119,12 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Traceability](traceability.md)
+
+- Traceability is a **core concept** in software quality assurance. It helps QA engineers ensure that every requirement is accounted for, tested, and verified, so no functionality is overlooked.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
