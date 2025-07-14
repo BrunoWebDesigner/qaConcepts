@@ -125,6 +125,13 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Static and Dynamic Testing](staticVsDynamicTesting.md)
+
+- **Static Testing** → Testing without executing the code.
+- **Dynamic Testing** → Testing that involves executing the code or running the software.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
