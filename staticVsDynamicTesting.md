@@ -3,7 +3,7 @@
 Software testing can be broadly divided into two types:
 
 <br>
-<img src=".img\staticvsDynamic.png" width="600">
+<img src="./img/staticvsDynamic.png" width="600">
 <br>
 
 - **Static Testing** → Testing without executing the code.
