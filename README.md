@@ -132,6 +132,12 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Review Activities](reviewActivities.md)
+
+- Review activities are part of **static testing**, where defects are found without executing code. Reviews help improve quality early in the software lifecycle.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
