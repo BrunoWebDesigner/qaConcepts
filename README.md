@@ -138,6 +138,12 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [AI Testing Assistant](aiTestingAssistant.md)
+
+- This guide will walk you through setting up, running, and using the **AI Testing Assistant** project to generate high-quality manual test cases from any web page.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
