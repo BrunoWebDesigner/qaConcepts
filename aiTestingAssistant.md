@@ -16,7 +16,7 @@ This guide will walk you through setting up, running, and using the **AI Testing
 ### a. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BrunoWebDesigner/ManualTestGenerator.git
 cd aiTestingAssistant
 ```
 
