@@ -1,5 +1,20 @@
 # 🚀 Getting Started with AI Testing Assistant
 
+**What is AI Testing Assistant?**
+
+AI Testing Assistant is a tool designed to help manual testers quickly generate high-quality manual test cases for any web page. Instead of writing test cases from scratch, you can use this assistant to automatically analyze a web page’s user interface and produce detailed, structured test cases in Markdown format.
+
+**How does it help manual testers?**
+
+- **Saves Time:** Automates the initial creation of test cases, so you can focus on reviewing and executing them.
+- **Improves Coverage:** Ensures that important UI elements and user flows are not missed.
+- **Easy to Use:** No coding required—just follow the steps to analyze a page and generate test cases.
+- **Customizable:** You can adjust the prompts and scripts to fit your team’s needs or specific testing requirements.
+
+Whether you’re new to manual testing or an experienced QA professional, AI Testing Assistant streamlines the process of documenting what needs to be tested, making your workflow faster and more reliable.
+
+---
+
 This guide will walk you through setting up, running, and using the **AI Testing Assistant** project to generate high-quality manual test cases from any web page.
 
 ---
