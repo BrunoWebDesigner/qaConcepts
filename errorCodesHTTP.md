@@ -216,7 +216,3 @@ These errors indicate that the server has failed to fulfill a valid request.
 ## Conclusion
 
 Understanding HTTP error codes helps developers debug issues quickly and improve user experience. Proper handling of these status codes ensures smoother web interactions and better application performance.
-
-```
-
-```
