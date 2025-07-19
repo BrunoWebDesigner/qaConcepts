@@ -118,11 +118,12 @@ For effective API testing, QA engineers must interpret and validate REST API res
 - Better debugging
 - Clear communication with developers
 
-```
+---
 
 # HTTP Error Codes - Complete List
 
 ## 1xx: Informational
+
 These codes indicate that the request was received and understood, and the process is continuing.
 
 - **100 Continue** – The server has received the request headers and the client should proceed to send the request body.
@@ -133,6 +134,7 @@ These codes indicate that the request was received and understood, and the proce
 ---
 
 ## 2xx: Success
+
 The request was successfully received, understood, and accepted.
 
 - **200 OK** – Standard response for successful HTTP requests.
@@ -146,6 +148,7 @@ The request was successfully received, understood, and accepted.
 ---
 
 ## 3xx: Redirection
+
 Further action needs to be taken by the client in order to complete the request.
 
 - **300 Multiple Choices** – There are multiple options for the requested resource.
@@ -159,6 +162,7 @@ Further action needs to be taken by the client in order to complete the request.
 ---
 
 ## 4xx: Client Errors
+
 These errors indicate that the request contains incorrect syntax or cannot be fulfilled.
 
 - **400 Bad Request** – The server cannot process the request due to client error.
@@ -185,6 +189,7 @@ These errors indicate that the request contains incorrect syntax or cannot be fu
 ---
 
 ## 5xx: Server Errors
+
 These errors indicate that the server has failed to fulfill a valid request.
 
 - **500 Internal Server Error** – A generic error message for server failure.
@@ -199,6 +204,7 @@ These errors indicate that the server has failed to fulfill a valid request.
 ---
 
 ## How to Handle HTTP Errors
+
 1. **Check Logs** – Most servers provide detailed logs for troubleshooting errors.
 2. **Validate Requests** – Ensure the request is correctly formatted.
 3. **Use Status Code-Specific Fixes** – Different errors require different solutions.
@@ -208,5 +214,9 @@ These errors indicate that the server has failed to fulfill a valid request.
 ---
 
 ## Conclusion
+
 Understanding HTTP error codes helps developers debug issues quickly and improve user experience. Proper handling of these status codes ensures smoother web interactions and better application performance.
+
+```
+
 ```
