@@ -6,6 +6,8 @@ The Testing Quadrants model, introduced by Brian Marick, is a widely recognized 
 <img src="./img/testingQuadrants.png" width="800">
 <br>
 
+image from: https://www.decipherzone.com/
+
 ---
 
 ## Structure of the Model

@@ -144,6 +144,12 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Testing Quadrants Model](testingQuadrantsModel.md)
+
+- The Testing Quadrants model, introduced by Brian Marick, is a widely recognized framework in software testing that categorizes testing activities based on their purpose and the development lifecycle stage. It helps Quality Assurance (QA) teams, developers, and stakeholders align testing efforts with business goals and technical requirements. The model is particularly popular in Agile and DevOps environments, where iterative development and continuous feedback are key.
+
+---
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
