@@ -124,6 +124,6 @@ npx playwright test analyzePage.spec.ts
 
 - [Playwright Documentation](https://playwright.dev/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
-- [AI Testing Assistant README](README.md)
+- [AI Testing Assistant README](https://github.com/BrunoWebDesigner/ManualTestGenerator)
 
 ---
