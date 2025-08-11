@@ -150,6 +150,11 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 ---
 
+### 📱 [Testing Process](testProcessISTQB.md)
+
+- Overview of the standard software testing process as defined by ISTQB, including key phases, activities, and deliverables.
+- Learn how each phase contributes to effective and efficient software quality assurance.
+
 ## 🔖 References
 
 - [W3Schools - Software Testing](https://www.w3schools.in/software-testing/tutorials/)
