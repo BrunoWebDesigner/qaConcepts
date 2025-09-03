@@ -8,6 +8,10 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ## 📚 Topics Covered
 
+### 📱 [Starting Concepts](qaStartingConcepts.md)
+
+- This section gives you a simple overview of the core concepts every beginner should know to start understanding the QA (Quality Assurance) role. Here you can find 25 key concepts to help you build a strong foundation in software testing.
+
 ### 🚀 [What is Testing](what_is_testing.md)
 
 - Understand the fundamentals of software testing
@@ -154,6 +158,8 @@ Explanation and real cases example for White-Box Test Design Techniques:
 
 - Overview of the standard software testing process as defined by ISTQB, including key phases, activities, and deliverables.
 - Learn how each phase contributes to effective and efficient software quality assurance.
+
+
 
 ## 🔖 References
 
