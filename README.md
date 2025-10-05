@@ -6,159 +6,77 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ---
 
+
 ## 📚 Topics Covered
 
 ### 📱 [Starting Concepts](qaStartingConcepts.md)
-
-- This section gives you a simple overview of the core concepts every beginner should know to start understanding the QA (Quality Assurance) role. Here you can find 25 key concepts to help you build a strong foundation in software testing.
+- Overview of 25 key QA concepts for beginners.
 
 ### 🚀 [What is Testing](what_is_testing.md)
-
-- Understand the fundamentals of software testing
-- Why testing matters in the software lifecycle
-
----
+- Fundamentals and importance of software testing.
 
 ### 🕵️‍♂️ [Software Testing](softwareTesting.md)
-
-- Key principles of testing
-- Different types and levels of testing
-
----
+- Principles, types, and levels of testing.
 
 ### 📊 [QA Testing Report](qaTestingReport.md)
-
-- How to structure a test report
-- Best practices for communicating test results
-
----
+- How to structure and communicate test results.
 
 ### 🎯 [Testing Prioritization](prioritization.md)
-
-- How to decide what to test first
-- Strategies for maximizing impact with limited time
-
----
+- Strategies for deciding what to test first.
 
 ### 🪲 [Bug Life Cycle](bugLifeCycle.md)
-
-- Journey of a defect from discovery to closure
-- Roles involved in defect management
-
----
+- Defect journey and roles in defect management.
 
 ### 🧩 [Functional vs Non-Functional Testing](functNonFunct.md)
-
-- Learn the difference and why both are crucial
-- Examples of functional and non-functional tests
-
----
+- Differences, examples, and importance of both.
 
 ### 🔗 [HTTP Error Codes](errorCodesHTTP.md)
-
-- Common HTTP status codes every tester should know
-- Real-world testing implications of different error codes
-
----
+- Common HTTP status codes and their testing impact.
 
 ### 📱 [Testing for Mobile](mobileTestTools.md)
+- Mobile testing challenges and best practices.
 
-- Challenges unique to mobile testing
-- Best practices for delivering quality mobile apps
+### � [Testing Principles](testingPrinciples.md)
+- The seven testing principles with real-world examples.
 
----
+### � [Test Plan](testPlan.md)
+- How to create and use a well-structured test plan.
 
-### 📱 [Testing Principles](testingPrinciples.md)
+### �️ [Test Case Jira](testCaseJira.md)
+- Example test cases and Jira integration.
 
-- Explanation and real cases example for each one of the seven testing principles
+### ⚫ [Black-Box Test Design Techniques](blackBoxTesting.md)
+- EP, BVA, Decision Tables, State Transitions, Use Cases, Error Guessing, Cause-Effect Graphs, Random Testing, Pairwise Testing.
 
----
+### ⚪ [White-Box Test Design Techniques](whiteBoxTesting.md)
+- Statement, Branch, Condition, Multiple Condition, Path, Control Flow, Data Flow, Loop Testing.
 
-### 📱 [Test Plan](testPlan.md)
+### � [Test Phases](testPhases.md)
+- Key activities and examples for each test phase.
 
-- Explanation and real cases example for a well structured Test Plan
+### � [Traceability](traceability.md)
+- Ensuring requirements are tested and verified.
 
----
+### 🧮 [Static and Dynamic Testing](staticVsDynamicTesting.md)
+- Static (without code execution) vs. Dynamic (with execution).
 
-### 📱 [Test Case Jira](testCaseJira.md)
+### � [Review Activities](reviewActivities.md)
+- Static testing through reviews and their benefits.
 
-- Explanation and real cases example test cases
+### 🤖 [AI Testing Assistant](aiTestingAssistant.md)
+- Guide to using AI for generating manual test cases.
 
----
+### 📝 [How to Write a Good AI Prompt for Test Case Generation](aiPromptForTestCase.md)
+- How to structure prompts for AI to generate effective test cases, with examples and best practices.
 
-### 📱 [Black-Box Test Design Techniques](blackBoxTesting.md)
+### 🧭 [Testing Quadrants Model](testingQuadrantsModel.md)
+- Brian Marick's model for categorizing testing activities.
 
-Explanation and real cases example for Black-Box Test Design Techniques:
+### 🟩 [Testing Quadrants](testingQuadrants.md)
+- Detailed explanation and examples of the four quadrants.
 
-- **EP**: Reduce tests by grouping similar inputs.
-- **BVA**: Focus on edges where bugs often hide.
-- **Decision Tables**: Test complex business rules.
-- **State Transitions**: Test systems with different states.
-- **Use Cases**: Test real user scenarios.
-- **Error Guessing**: Test based on experience.
-- **Cause-Effect Graphs**: Tackle complex logic.
-- **Random Testing**: Quick sampling of input ranges.
-- **Pairwise Testing**: Reduce test combinations efficiently.
-
----
-
-### 📱 [White-Box Test Design Techniques](whiteBoxTesting.md)
-
-Explanation and real cases example for White-Box Test Design Techniques:
-
-- **Statement Coverage**: Tests every code line executes at least once.
-- **Branch Coverage**: Tests all decision outcomes (true/false).
-- **Condition Coverage**: Tests each Boolean condition for true and false.
-- **Multiple Condition Coverage**: Tests all condition combinations in decisions.
-- **Path Coverage**: Tests all possible code execution paths.
-- **Control Flow Testing**: Tests execution flow, including loops and branches.
-- **Data Flow Testing**: Checks variable definition, use, and removal.
-- **Loop Testing**: Tests loops for zero, one, multiple, and max iterations.
-
----
-
-### 📱 [Test Phases](testPhases.md)
-
-- Explanation with key activities and real cases example regarding the Test Phases
-
----
-
-### 📱 [Traceability](traceability.md)
-
-- Traceability is a **core concept** in software quality assurance. It helps QA engineers ensure that every requirement is accounted for, tested, and verified, so no functionality is overlooked.
-
----
-
-### 📱 [Static and Dynamic Testing](staticVsDynamicTesting.md)
-
-- **Static Testing** → Testing without executing the code.
-- **Dynamic Testing** → Testing that involves executing the code or running the software.
-
----
-
-### 📱 [Review Activities](reviewActivities.md)
-
-- Review activities are part of **static testing**, where defects are found without executing code. Reviews help improve quality early in the software lifecycle.
-
----
-
-### 📱 [AI Testing Assistant](aiTestingAssistant.md)
-
-- This guide will walk you through setting up, running, and using the **AI Testing Assistant** project to generate high-quality manual test cases from any web page.
-
----
-
-### 📱 [Testing Quadrants Model](testingQuadrantsModel.md)
-
-- The Testing Quadrants model, introduced by Brian Marick, is a widely recognized framework in software testing that categorizes testing activities based on their purpose and the development lifecycle stage. It helps Quality Assurance (QA) teams, developers, and stakeholders align testing efforts with business goals and technical requirements. The model is particularly popular in Agile and DevOps environments, where iterative development and continuous feedback are key.
-
----
-
-### 📱 [Testing Process](testProcessISTQB.md)
-
-- Overview of the standard software testing process as defined by ISTQB, including key phases, activities, and deliverables.
-- Learn how each phase contributes to effective and efficient software quality assurance.
-
+### 🏁 [Test Process (ISTQB)](testProcessISTQB.md)
+- Standard ISTQB test process, phases, activities, and deliverables.
 
 
 ## 🔖 References
