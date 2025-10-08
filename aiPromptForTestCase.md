@@ -1,5 +1,5 @@
 
-➡️ # How to Build an Effective AI Prompt for Test Case Generation (Prompt Pyramid)
+# ➡️ How to Build an Effective AI Prompt for Test Case Generation (Prompt Pyramid)
 
 Creating a clear and detailed prompt is essential for leveraging AI to generate high-quality test cases. The "Prompt Pyramid" approach helps QA professionals guide the AI by providing clear instructions, context, and expectations. This guide explains how to build a prompt using five essential layers, with practical examples and references to best practices from Academy TestRail (used only in the Request/Examples section).
 
@@ -64,7 +64,7 @@ Format: Max 5 steps, 5 expected results, use Markdown formatting.
 
 <br><br>
 
-# Academy TestRail Method for Request/Examples
+# ➡️ Academy TestRail Method for Request/Examples
 
 | Topic                              | Description                                                                                  | Example                                                      |
 | ----------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
