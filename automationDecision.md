@@ -2,17 +2,22 @@
 
 ## Summary
 
-- [Why Automate Tests?](#why-automate-tests)
-- [Deciding Whether to Automate a Test](#deciding-whether-to-automate-a-test)
-- [Real Examples: When and What to Automate](#real-examples-when-and-what-to-automate)
-  - [Frontend (FE) Test Automation](#frontend-fe-test-automation)
-  - [Backend (BE) Test Automation](#backend-be-test-automation)
-- [Advanced Automation Topics](#advanced-automation-topics)
-  - [CI/CD Integration — pipelines, GitHub Actions, Jenkins](#cicd-integration--pipelines-github-actions-jenkins)
-  - [Choosing the Right Web Automation Tool: Cypress vs Selenium vs Playwright](#choosing-the-right-web-automation-tool-cypress-vs-selenium-vs-playwright)
-  - [Mobile Test Automation — Appium and alternatives](#mobile-test-automation--appium-and-alternatives)
-- [Quick Comparison Table](#quick-comparison-table)
-- [References](#references)
+- [Summary](#summary)
+- [➡️ Why Automate Tests?](#➡️-why-automate-tests)
+- [➡️ Deciding Whether to Automate a Test](#➡️-deciding-whether-to-automate-a-test)
+    - [decideAutomate tool](#decideautomate-tool)
+    - [Decision outcomes](#decision-outcomes)
+    - [Report and Decision Document](#report-and-decision-document)
+- [➡️ Real Examples: When and What to Automate](#➡️-real-examples-when-and-what-to-automate)
+    - [Frontend (FE) Test Automation](#frontend-fe-test-automation)
+    - [Backend (BE) Test Automation](#backend-be-test-automation)
+- [➡️ Advanced Automation Topics](#➡️-advanced-automation-topics)
+    - [CI/CD Integration — pipelines, GitHub Actions, Jenkins](#cicd-integration--pipelines-github-actions-jenkins)
+    - [Choosing the Right Web Automation Tool: Cypress vs Selenium vs Playwright](#choosing-the-right-web-automation-tool-cypress-vs-selenium-vs-playwright)
+    - [Mobile Test Automation — Appium and alternatives](#mobile-test-automation--appium-and-alternatives)
+    - [Quick Comparison Table](#quick-comparison-table)
+- [➡️ References](#➡️-references)
+- [Summary — Key Takeaway](#summary--key-takeaway)
 
 
 <br>
@@ -23,7 +28,7 @@
 
 ---
 
-## Why Automate Tests?
+## ➡️ Why Automate Tests?
 
 Test automation is a cornerstone of modern software development and QA. Its benefits include:
 
@@ -35,7 +40,7 @@ Test automation is a cornerstone of modern software development and QA. Its bene
 
 However, not every test should be automated. Automation has costs—maintenance, infrastructure, and complexity—which must be balanced against the benefits.
 
-## Deciding Whether to Automate a Test
+## ➡️ Deciding Whether to Automate a Test
 
 The [`decideAutomate`](https://github.com/brunoengineer/decideAutomate) tool (a React application for QAs) helps guide this decision. It uses a questionnaire that considers factors such as:
 
@@ -57,7 +62,25 @@ The tool provides recommendations:
 - **You probably shouldn’t automate:** Manual may suffice.
 - **Do not automate:** Costs outweigh benefits.
 
-## Real Examples: When and What to Automate
+<br>
+<img src="./img/automateApp.png" width="600">
+<br><br>
+
+### Report and Decision Document
+
+The app can export a compact decision report to keep a traceable record of whether a test should be automated and why. Store these reports in your repo (e.g., docs/automation-decisions/) and link them to PRs, test suites, or release notes.
+
+<br>
+<img src="./img/automateAppReport.png" width="700">
+<br>
+
+Purpose:
+- Capture the decision, rationale, and metadata for auditability and future re-evaluation.
+- Make automation decisions discoverable for the team and CI owners.
+
+---
+
+## ➡️ Real Examples: When and What to Automate
 
 ### Frontend (FE) Test Automation
 
@@ -100,7 +123,7 @@ it('should return 200 for authenticated GET /users', async () => {
 
 ---
 
-## Advanced Automation Topics
+## ➡️ Advanced Automation Topics
 
 ### CI/CD Integration — pipelines, GitHub Actions, Jenkins
 - Integrate automated tests into your CI/CD pipeline so tests run automatically on commits, PRs, nightly builds or releases. This ensures regressions are detected early and provides fast feedback to the team.
@@ -149,7 +172,6 @@ it('should return 200 for authenticated GET /users', async () => {
   - Use simulators/emulators for quick feedback and a small real-device matrix for acceptance.
   - Automate provisioning of test data and app state to reduce manual setup.
 
----
 
 ### Quick Comparison Table
 
@@ -160,7 +182,7 @@ it('should return 200 for authenticated GET /users', async () => {
 | Mobile automation | Appium (cross-platform), Espresso/XCUITest (native) | Use Appium for cross-platform and device farms; native frameworks are more stable for platform-specific suites |
 
 
-## References
+## ➡️ References
 
 - [Martin Fowler: The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 - [TestRail Blog: How to Automate Test Cases](https://www.testrail.com/blog/automate-testcase/)
